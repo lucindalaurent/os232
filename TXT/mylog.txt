@@ -6,3 +6,9 @@ ZCZC W00 50 L01 SCELE/Discord related
 ZCZC W00 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 15 L03 GitHub related
 ZCZC W00 120 L05 study for quiz
+ZCZC W01 20 L00 General, etc.
+ZCZC W01 60 L01 SCELE/Discord related
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 120 L05 study for quiz
+ZCZC W01 30 L08 ask some friends
+ZCZC W01 360 L11 accumulative time needed to finish the assignment
