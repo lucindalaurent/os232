@@ -12,3 +12,9 @@ ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 120 L05 study for quiz
 ZCZC W01 30 L08 ask some friends
 ZCZC W01 360 L11 accumulative time needed to finish the assignment
+ZCZC W02 20 L00 General, etc.
+ZCZC W02 80 L01 SCELE/Discord related
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 120 L05 study for quiz
+ZCZC W02 30 L08 ask some friends
+ZCZC W02 240 L11 accumulative time needed to finish the assignment

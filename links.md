@@ -15,4 +15,12 @@ Kita bisa langsung mengetik atau mengedit teks setelah membuka file tanpa mengga
 <br>
 * [How to Write a Bash Script](https://youtu.be/F-gskSl4pwQ)<br>
 Video ini menjelaskan cara membuat dan menjalankan bash script menggunakan nano. 
-Penjelasannya to the point dan membantu saya lebih memahami cara menggunakan nano dibanding hanya membaca artikel. Catatan: link video ini didapat dari OS Week 01 Assignment #2: The ATM Way: GSGS and Read.
+Penjelasannya to the point dan membantu saya lebih memahami cara menggunakan nano dibanding hanya membaca artikel. Catatan: link video ini didapat dari OS Week 01 Assignment #2: The ATM Way: GSGS and Read.<br>
+#### SSH? 
+* [Cara Kerja SSH](https://www.hostinger.co.id/tutorial/cara-kerja-ssh)<br>
+Artikel ini menjelaskan pengertian SSH, cara kerjanya secara umum, teknik enkripsi, dan cara kerja SSH dengan teknik enkripsi.<br>
+#### C language 
+* [Intro to Pointers](https://www.youtube.com/watch?v=2ybLD6_2gKM)<br>
+Saat demo bahasa C di kelas, saya sempat salah fokus karena terdapat tanda * pada parameter beberapa fungsi. Video ini memberi sedikit gambaran mengenai apa itu pointer dan kenapa diperlukan.
+
+
