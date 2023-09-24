@@ -30,5 +30,6 @@ Saat demo bahasa C di kelas, saya sempat salah fokus karena terdapat tanda * pad
 Artikel ini menjelaskan secara umum apa itu Tar, seperti apa syntaxnya, dan operasi-operasi yang bisa dilakukan.
 
 #### Mount?
-[Mount](https://www.computerhope.com/jargon/m/mount.htm)
+[Mount](https://www.computerhope.com/jargon/m/mount.htm)<br>
+Artikel ini menjelaskan hal-hal umum mengenai mount, termasuk perbedaan mounting manual dan otomatis.<br>
 
