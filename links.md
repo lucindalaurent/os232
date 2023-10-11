@@ -38,7 +38,7 @@ Artikel ini menjelaskan hal-hal umum mengenai mount, termasuk perbedaan mounting
 Artikel ini menjelaskan perbedaan physical dan virtual memory secara umum, bagus untuk menambah wawasan.<br>
 
 #### How to Use SCP Command
-[SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+[SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) <br>
 Artikel ini membantu dalam mengerjakan Pop Quiz terutama untuk copy local file ke remote system. <br>
 
 #### Memory Paging
