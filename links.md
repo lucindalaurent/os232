@@ -43,4 +43,4 @@ Artikel ini membantu dalam mengerjakan Pop Quiz terutama untuk copy local file k
 
 #### Memory Paging
 [What is Memory Paging?](https://www.techtarget.com/searchitoperations/definition/memory-paging)<br>
-Artikel ini menjelaskan konsep memory paging secara umum dan mudah dimengerti
+Artikel ini menjelaskan konsep memory paging secara umum dan mudah dimengerti. <br>
