@@ -39,7 +39,7 @@ Artikel ini menjelaskan perbedaan physical dan virtual memory secara umum, bagus
 
 #### How to Use SCP Command
 [SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
-Artikel ini membantu dalam mengerjakan Pop Quiz terutama untuk copy local file ke remote system.
+Artikel ini membantu dalam mengerjakan Pop Quiz terutama untuk copy local file ke remote system. <br>
 
 #### Memory Paging
 [What is Memory Paging?](https://www.techtarget.com/searchitoperations/definition/memory-paging)<br>
