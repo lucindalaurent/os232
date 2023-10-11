@@ -30,3 +30,9 @@ ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 120 L05 approximate time preparing for quiz
 ZCZC W04 40 L08 ask a friend 
 ZCZC W04 200 L11 accumulative time needed to finish the assignment
+ZCZC W05 20 L00 General, etc.
+ZCZC W05 60 L01 Scele/Discord related
+ZCZC W05 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 120 L05 approximate time preparing for quiz
+ZCZC W05 40 L08 ask a friend
+ZCZC W05 200 L11 accumulative needed to finish the assignment
