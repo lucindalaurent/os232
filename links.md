@@ -44,3 +44,19 @@ Artikel ini membantu dalam mengerjakan Pop Quiz terutama untuk copy local file k
 #### Memory Paging
 [What is Memory Paging?](https://www.techtarget.com/searchitoperations/definition/memory-paging)<br>
 Artikel ini menjelaskan konsep memory paging secara umum dan mudah dimengerti. <br>
+
+#### Concurrency and Parallelism
+* [Apakah Concurrency Lebih Baik Daripada Parallelism?](https://socs.binus.ac.id/2018/12/10/apakah-concurrency-lebih-baik-daripada-parallelism/)<br>
+Artikel ini memberikan analogi yang menarik terkait perbedaan concurrency dan parallelism 
+* [Concurrency vs Parallelism](https://freecontent.manning.com/concurrency-vs-parallelism/)<br>
+Artikel ini memberikan analogi yang mirip-mirip dengan artikel sebelumnya, namun menyampaikan beberapa poin yang menarik. Salah satunya "Parallelism is a subclass of concurrency". <br>
+
+
+#### Processes and Threads
+[Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+Artikel tersebut menyajikan perbedaan process dan thread dalam tabel, sehingga lebih ringkas dan mudah dipahami.<br>
+
+
+#### Garpu?
+[Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)<br>
+Segmen FAQs di artikel tersebut sangat membantu jika lupa akan hal-hal penting terkait fork.
