@@ -59,4 +59,13 @@ Artikel tersebut menyajikan perbedaan process dan thread dalam tabel, sehingga l
 
 #### Garpu?
 [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)<br>
-Segmen FAQs di artikel tersebut sangat membantu jika lupa akan hal-hal penting terkait fork.
+Segmen FAQs di artikel tersebut sangat membantu jika lupa akan hal-hal penting terkait fork. <br>
+
+#### Deadlock
+[Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Artikel ini menjelaskan konsep dasar dan bagaimana deadlock bisa terjadi. <br>
+
+#### Synchronization
+[Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+Artikel ini menjelaskan synchronization dengan ilustrasi yang menarik dan penjelasan ringkas terkait syarat dan solusi masalahnya. 
+
