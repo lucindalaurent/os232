@@ -69,3 +69,10 @@ Artikel ini menjelaskan konsep dasar dan bagaimana deadlock bisa terjadi. <br>
 [Process Synchronization in OS](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
 Artikel ini menjelaskan synchronization dengan ilustrasi yang menarik dan penjelasan ringkas terkait syarat dan solusi masalahnya. 
 
+#### Linux From Scratch
+[Compiling a Cross-Toolchain](https://youtu.be/uggsnHSELos?si=qDpS7o66wZy2CoDj)
+Video ini sangat membantu karena memberikan petunjuk langkah demi langkah tentang cara mengkompilasi dan menginstal packages yang diperlukan. Video tersebut juga menjelaskan secara informatif bagaimana memperkirakan waktu yang dibutuhkan untuk build dan install setiap paket. Selain itu, video tersebut memberikan gambaran yang jelas tentang seperti apa keluaran yang benar, sehingga memudahkan saya untuk membandingkan dan memastikan prosesnya berjalan dengan benar. Video ini tidak hanya memberikan instruksi tetapi juga membantu saya memahami apa yang diharapkan dari proses tersebut.
+
+[Book](https://www.linuxfromscratch.org/lfs/view/12.0/)
+Buku digital ini menyediakan petunjuk lengkap cara membangun Linux. 
+
