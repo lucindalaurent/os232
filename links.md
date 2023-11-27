@@ -76,3 +76,8 @@ Video ini sangat membantu karena memberikan petunjuk langkah demi langkah tentan
 [Book](https://www.linuxfromscratch.org/lfs/view/12.0/)<br>
 Buku digital ini menyediakan petunjuk lengkap cara membangun Linux. 
 
+#### Symbolic Links vs Hard Links
+[How to Symlink a File in Linux](https://www.geeksforgeeks.org/how-to-symlink-a-file-in-linux/)<br>
+Artikel ini menjelaskan perbandingan hard links dan symbolic links dengan jelas menggunakan tabel. Artikel ini juga menjelaskan command yang dapat dijalankan untuk membuat symbolic link.
+
+
