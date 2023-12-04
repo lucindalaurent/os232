@@ -81,3 +81,6 @@ Buku digital ini menyediakan petunjuk lengkap cara membangun Linux.
 Artikel ini menjelaskan perbandingan hard links dan symbolic links dengan jelas menggunakan tabel. Artikel ini juga menjelaskan command yang dapat dijalankan untuk membuat symbolic link.
 
 
+#### SCP :D
+[SCP From and To Windows](https://doit.vlsm.org/019.html)<br>
+Artikel ini membantu saya mengambil file pdf di os1 
